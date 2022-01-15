@@ -1,0 +1,12 @@
+Skills
+	gitbash
+        github
+        Postman
+        Fidler
+        SQL
+        VPN"
+        Devtolls
+        Mobile Testing
+        Jmeter
+        Python
+        Theory Testing
