@@ -1,0 +1,6 @@
+name - Olga
+firstname - Dygai
+patronymic - Aleksandrovna
+age - 28
+pet - 1
+expected favorite salary - 150
